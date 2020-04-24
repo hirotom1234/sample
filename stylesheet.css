@@ -107,6 +107,9 @@ header {
   text-align: center;
 }
 
+.img {
+ vertical-align: bottom; 
+}
 .gallery-img {
   width:25%;
 }
