@@ -125,7 +125,7 @@ header {
   font-weight: bold;
   padding:15px 0;
   letter-spacing: 2px;
-  display:inline-block;
+  display:block;
 }
 
 footer p {
