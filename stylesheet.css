@@ -138,3 +138,12 @@ footer {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+/* スマホ向けレイアウト */
+@media(max-width: 670px) {
+
+  .gallery-img {
+  width:50%;
+  }
+
+}
